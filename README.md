@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://jaineil32624.github.io/RedFlag/"><img src="docs/banner.png" alt="RedFlag - Spot the scam before it spots you. The swipe game that makes you scam-proof." width="100%"></a>
+<a href="https://jaigod.github.io/RedFlag/"><img src="docs/banner.png" alt="RedFlag - Spot the scam before it spots you. The swipe game that makes you scam-proof." width="100%"></a>
 
 <br>
 
-<a href="https://jaineil32624.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%9A%A9%20PLAY%20NOW-free%20in%20your%20browser-ff4d6d?style=for-the-badge" alt="Play now"></a>
-<a href="https://github.com/jaineil32624/RedFlag/releases/latest/download/RedFlag.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20ZIP-works%20offline-7c5cff?style=for-the-badge" alt="Download ZIP"></a>
-<a href="https://jaineil32624.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%93%B2%20INSTALL%20AS%20APP-add%20to%20home%20screen-22c58b?style=for-the-badge" alt="Install as app"></a>
-<a href="https://jaineil32624.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEBSITE-jaineil32624.github.io-ff7a59?style=for-the-badge" alt="Website"></a>
+<a href="https://jaigod.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%9A%A9%20PLAY%20NOW-free%20in%20your%20browser-ff4d6d?style=for-the-badge" alt="Play now"></a>
+<a href="https://github.com/JaiGod/RedFlag/releases/latest/download/RedFlag.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20ZIP-works%20offline-7c5cff?style=for-the-badge" alt="Download ZIP"></a>
+<a href="https://jaigod.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%93%B2%20INSTALL%20AS%20APP-add%20to%20home%20screen-22c58b?style=for-the-badge" alt="Install as app"></a>
+<a href="https://jaigod.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20WEBSITE-jaigod.github.io-ff7a59?style=for-the-badge" alt="Website"></a>
 
 <sub>📲 <b>Install as app:</b> open the play link on your phone → browser menu → <b>Add to Home Screen</b> / <b>Install app</b>. It then works offline like a native app.</sub>
 
@@ -102,9 +102,9 @@ Scammers target the people we love most. RedFlag is built for exactly that conve
 
 | | |
 |---|---|
-| 🌐 **Online** | Open **[jaineil32624.github.io/RedFlag](https://jaineil32624.github.io/RedFlag/)** and start swiping. |
+| 🌐 **Online** | Open **[jaigod.github.io/RedFlag](https://jaigod.github.io/RedFlag/)** and start swiping. |
 | 📲 **Install on your phone** | Open the link on your phone, then choose **Add to Home Screen** (iPhone: Share → Add to Home Screen). It works offline afterwards. |
-| ⬇️ **Download** | Get **[RedFlag.zip](https://github.com/jaineil32624/RedFlag/releases/latest/download/RedFlag.zip)**, unzip it and double-click **`index.html`**. No install and no internet needed. |
+| ⬇️ **Download** | Get **[RedFlag.zip](https://github.com/JaiGod/RedFlag/releases/latest/download/RedFlag.zip)**, unzip it and double-click **`index.html`**. No install and no internet needed. |
 
 ## 🔒 Privacy
 
@@ -118,8 +118,8 @@ All brands, people, links and phone numbers in the game are **fictional** and us
 
 ### Ready to get scam-proof? 🚩
 
-<a href="https://jaineil32624.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%9A%A9%20PLAY%20NOW-free-ff4d6d?style=for-the-badge" alt="Play now"></a>
-<a href="https://github.com/jaineil32624/RedFlag/releases/latest/download/RedFlag.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20ZIP-offline-7c5cff?style=for-the-badge" alt="Download ZIP"></a>
+<a href="https://jaigod.github.io/RedFlag/"><img src="https://img.shields.io/badge/%F0%9F%9A%A9%20PLAY%20NOW-free-ff4d6d?style=for-the-badge" alt="Play now"></a>
+<a href="https://github.com/JaiGod/RedFlag/releases/latest/download/RedFlag.zip"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20ZIP-offline-7c5cff?style=for-the-badge" alt="Download ZIP"></a>
 
 **⭐ If RedFlag helped you (or someone you love), please star the repo.** It helps more people find it.
 
